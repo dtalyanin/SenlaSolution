@@ -1,0 +1,2 @@
+# SenlaSolution
+Solution for Senla
